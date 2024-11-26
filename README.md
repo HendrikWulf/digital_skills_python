@@ -1,1 +1,10 @@
-# digital_skills_python
+# header
+
+text
+
+**bold text** 
+
+*italic text*
+
+## subheader
+
